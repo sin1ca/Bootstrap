@@ -6,7 +6,7 @@
 }
 
 .sec-1{
-    background-image: url(/image/bckg-top-without-vases.png);
+    background-image: url(../image/bckg-top-without-vases.png);
     background-size: cover;
     background-position: 100%;
 }
@@ -74,7 +74,7 @@
 }
 
 .container-sec-1{
-    background-image: url(/image/bckg-top.png);
+    background-image: url(../image/bckg-top.png);
     background-repeat: no-repeat;
     height: 708px;
 }
@@ -171,10 +171,10 @@
 }
 
 .carousel-control-next-icon{
-    background-image: url(/image/right-arrow.svg);
+    background-image: url(../image/right-arrow.svg);
 }
 .carousel-control-prev-icon{
-    background-image: url(/image/left-arrow.svg);
+    background-image: url(../image/left-arrow.svg);
 }
 .img-carusel{
     margin: 0 auto;
@@ -272,7 +272,7 @@
 }
 
 .sec-4{
-    background-image: url(/image/bckg-bott.png);
+    background-image: url(../image/bckg-bott.png);
     background-size: cover;
     background-position: 100%;
     background-color: #EBEBEB;
